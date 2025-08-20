@@ -1,0 +1,18 @@
+-- Data Types in SQL Server
+ -- Numeric
+	-- bigint - > 10-13 digits (8 bytes)
+	-- int - 1 digit < > 10 digits (4 bytes)  
+	-- smallint - -32768 to 32767 (2 bytes)   pincode smallint 526321
+	-- tinyint - 0 to 255 (1)  
+	-- bit - 0 and 1
+	-- decimal(7,3) -- 7 digit whole numbers and 3 digits after decimal(XXXX.XXX) 72.28
+ -- Text
+	-- char(255) -- first name char(15)- can take only alphabetical values
+	-- varchar(8000) -- Alphanumeric  -- address: Flat num:103, Nitya Apartment, Lane 4, 
+	-- nvarchar(4000) -- Special Characters along with alphanumeric values #103
+	-- text - 62000+ Chars(Product Feedback, Comment)
+ -- Datetime (YYYY-MM-DD)
+	-- Date (YYYY-MM-DD)
+	--DD-MM_YYYY   01-AUG-2025 , 01/08/2025
+	-- Datetime (YYYY-MM-DD HH:MM:SS) - precision is upto seconds
+	-- Datetime2 (YYYY-MM-DD HH:MM:SS:XXXXXX) - precision is upto milliseconds
