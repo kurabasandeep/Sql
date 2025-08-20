@@ -2,7 +2,7 @@
 # create tables & inserting
 # Data types 
 # create schemes and tables create & insert
-# constrains
+# constraints
 # operators 
 
 
