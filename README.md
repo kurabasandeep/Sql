@@ -1,9 +1,9 @@
-# create database 
-# create tables & inserting
+# Create database 
+# Create tables & inserting
 # Data types 
-# create schemes and tables create & insert
-# constraints
-# operators 
+# Create schemes and tables create & insert
+# Constraints
+# Filters & Operators 
 
 
 
